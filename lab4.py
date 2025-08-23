@@ -1,7 +1,3 @@
-# ==========================
-# Lab 04 – Adapted to features_raw.csv
-# Solutions for A1–A7
-# ==========================
 
 import pandas as pd
 import numpy as np
@@ -131,3 +127,4 @@ if __name__ == "__main__":
     print("A1) Classification Metrics:", metrics_result)
     print("A2) Regression Metrics:", reg_metrics)
     print("A7) Best k from GridSearchCV:", best_k)
+
